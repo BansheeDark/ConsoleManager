@@ -117,10 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FirstStartProgram" xml:space="preserve">
-    <value>false</value>
-  </data>
-  <data name="ProgramName" xml:space="preserve">
-    <value>Console Manager</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAABMLAAATCwAAAAAAAAAA
+        AAAvLy+yMDAw8jAwMPIwMDDyMDAw8jAwMPIwMDDyMDAw8jAwMPIwMDDyMDAw8jAwMPIwMDDyMDAw8jAw
+        MPIvLy+4MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAw
+        MP8wMDD/MDAw/zAwMPMwMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAw
+        MP8wMDD/MDAw/zAwMPMwMDDyMDAw/zAwMP8wMDD/MDAw/zAwMP8wNDX/Lh0Z/y0ZFP8wMzT/MDEx/zAw
+        MP8wMDD/MDAw/zAwMP8wMDDyMDAw8jAwMP8wMDD/MDAw/zAxMf8wMjP/LBEJ/zRKVP82WWT/LA8I/zAv
+        L/8wMTL/MDAw/zAwMP8wMDD/MDAw8jAwMPIwMDD/MDAw/zAxMf8wMDD/KwsC/zI9Rf9G4/z/SPf//zZZ
+        Zf8rCAD/Lysp/zAyM/8wMDD/MDAw/zAwMPIwMDDyMDAw/zAyMv8vLCz/KwgA/zVSXf9G5///Ru///0Xn
+        //9I9f//OXF//ywKAv8vJiP/MDMz/zAwMP8wMDDyMDAw8jAzM/8vJyX/KwgB/zhodf9I8v//Ru3//0TT
+        //9E0///ReX//0n8//88iJn/LAwH/y4fHP8wNDX/MDAw8jAxMfIvKCb/Lh4a/z2QpP9K////R/f//0bk
+        //9G5///Ruf//0bl//9H7///Sv///0Cxx/8wKij/LiIf/zAxMvIvLSzyLiAd/zuClP9H7P//Q9Dv/0LD
+        6f9Cxun/Qsbp/0LG6f9Cxun/QsTp/0LJ7P9H7f//PqC4/y8oJv8vKSfyMC4u8jEzM/8zSE3/MTY2/zAw
+        Mv8wMjL/MDIy/zAyMv8wMjL/MDIy/zAyMv8wMTL/MDIz/zNHTP8xODr/MC0s8jAxMfIwMDD/Lycl/y8k
+        I/8vJSP/LyUj/y8lI/8vJSP/LyUj/y8lI/8vJSP/LyUj/y8lI/8vJSP/MC4u/zAxMfIwMDDyMDAw/zAw
+        MP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDDyMDAw8zAw
+        MP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw8zAw
+        MP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAwMP8wMDD/MDAw/zAw
+        MP8vLy+rMDAw8jAwMPIwMDDyMDAw8jAwMPIwMDDyMDAw8jAwMPIwMDDyMDAw8jAwMPIwMDDyMDAw8jAw
+        MPIvLy+yAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAA==
+</value>
   </data>
 </root>
